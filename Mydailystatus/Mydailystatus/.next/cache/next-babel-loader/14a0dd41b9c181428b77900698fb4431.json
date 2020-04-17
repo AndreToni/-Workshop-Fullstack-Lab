@@ -1,0 +1,1 @@
+{"ast":null,"code":"module.exports = {\n  db: db\n};","map":{"version":3,"sources":["C:/Projetos/Aplicacoes/Mydailystatus/backend/lib/db.js"],"names":["module","exports","db"],"mappings":"AACAA,MAAM,CAACC,OAAP,GAAgB;AACZC,EAAAA,EAAE,EAAEA;AADQ,CAAhB","sourcesContent":["\r\nmodule.exports ={\r\n    db: db\r\n}"]},"metadata":{},"sourceType":"script"}
